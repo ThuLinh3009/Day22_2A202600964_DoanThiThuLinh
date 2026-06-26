@@ -1,0 +1,14 @@
+{
+  "prompt_v1_scores": {
+    "faithfulness": NaN,
+    "context_recall": NaN,
+    "context_precision": NaN
+  },
+  "prompt_v2_scores": {
+    "faithfulness": NaN,
+    "context_recall": NaN,
+    "context_precision": NaN
+  },
+  "target_met": false,
+  "note": "answer_relevancy skipped (embedding quota exhausted); using BM25 retrieval"
+}
